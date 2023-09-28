@@ -1,0 +1,7 @@
+{
+    "iis.configDir": "",
+    "files.associations": {
+        "*.ejs": "html",
+        "iostream": "cpp"
+    }
+}
