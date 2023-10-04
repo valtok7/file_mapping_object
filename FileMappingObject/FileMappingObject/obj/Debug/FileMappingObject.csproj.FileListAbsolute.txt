@@ -1,0 +1,10 @@
+C:\Users\ito\source\repos\FileMappingObject\FileMappingObject\bin\Debug\FileMappingObject.exe.config
+C:\Users\ito\source\repos\FileMappingObject\FileMappingObject\bin\Debug\FileMappingObject.exe
+C:\Users\ito\source\repos\FileMappingObject\FileMappingObject\bin\Debug\FileMappingObject.pdb
+C:\Users\ito\source\repos\FileMappingObject\FileMappingObject\obj\Debug\FileMappingObject.csproj.AssemblyReference.cache
+C:\Users\ito\source\repos\FileMappingObject\FileMappingObject\obj\Debug\FileMappingObject.csproj.SuggestedBindingRedirects.cache
+C:\Users\ito\source\repos\FileMappingObject\FileMappingObject\obj\Debug\FileMappingObject.Properties.Resources.resources
+C:\Users\ito\source\repos\FileMappingObject\FileMappingObject\obj\Debug\FileMappingObject.csproj.GenerateResource.cache
+C:\Users\ito\source\repos\FileMappingObject\FileMappingObject\obj\Debug\FileMappingObject.csproj.CoreCompileInputs.cache
+C:\Users\ito\source\repos\FileMappingObject\FileMappingObject\obj\Debug\FileMappingObject.exe
+C:\Users\ito\source\repos\FileMappingObject\FileMappingObject\obj\Debug\FileMappingObject.pdb
